@@ -1,18 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\",
+  "WorkspaceRootPath": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91DA53C4-C14E-4B96-AE45-E5C2AF666BD3}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\alyss\\source\\repos\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProductsApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA53C4-C14E-4B96-AE45-E5C2AF666BD3}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\alyss\\documents\\productapirepo\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91DA53C4-C14E-4B96-AE45-E5C2AF666BD3}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|C:\\Users\\alyss\\source\\repos\\ProductsApp\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|solutionrelative:ProductsApp\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|C:\\Users\\alyss\\source\\repos\\ProductsApp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|solutionrelative:ProductsApp\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8785980C-70A1-4907-A567-61515E3272DE}|ProductsApp\\ProductsApp.csproj|c:\\users\\alyss\\documents\\productapirepo\\productsapp\\productsapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +28,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsApp",
+              "DocumentMoniker": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+              "RelativeDocumentMoniker": "ProductsApp\\ProductsApp.csproj",
+              "ToolTip": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+              "RelativeToolTip": "ProductsApp\\ProductsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T19:08:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestSimpleProductController.cs",
-              "DocumentMoniker": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeDocumentMoniker": "ProductsApp.Tests\\TestSimpleProductController.cs",
-              "ToolTip": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "ToolTip": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeToolTip": "ProductsApp.Tests\\TestSimpleProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,31 +57,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:12:30.523Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-03-24T22:12:30.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\alyss\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alyss\\Documents\\ProductAPIRepo\\ProductsApp\\ProductsApp\\Models\\Product.cs",
               "RelativeToolTip": "ProductsApp\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:10:40.434Z"
+              "WhenOpened": "2025-03-24T22:10:40.434Z",
+              "EditorCaption": ""
             }
           ]
         }
